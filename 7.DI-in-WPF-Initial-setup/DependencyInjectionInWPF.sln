@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIApp", "DI\DIApp.csproj", "{CEBAA2F0-200D-40DE-88B0-742BCCE786CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IO", "WpfLibrary\IO.csproj", "{0957A8EF-C6C9-4224-80DA-1CFDECA6424B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEBAA2F0-200D-40DE-88B0-742BCCE786CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBAA2F0-200D-40DE-88B0-742BCCE786CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBAA2F0-200D-40DE-88B0-742BCCE786CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBAA2F0-200D-40DE-88B0-742BCCE786CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0957A8EF-C6C9-4224-80DA-1CFDECA6424B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0957A8EF-C6C9-4224-80DA-1CFDECA6424B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0957A8EF-C6C9-4224-80DA-1CFDECA6424B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0957A8EF-C6C9-4224-80DA-1CFDECA6424B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28F7E263-34AE-4968-9444-255B2BF98C64}
+	EndGlobalSection
+EndGlobal
